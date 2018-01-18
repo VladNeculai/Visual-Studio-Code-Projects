@@ -1,0 +1,29 @@
+{
+    "roos": [
+        {
+          "name": "Squad",
+          "img": "http://assets.nydailynews.com/polopoly_fs/1.3487419.1505154812!/img/httpImage/image.jpg_gen/derivatives/article_750/471166117.jpg",
+          "id": 1
+        },
+        {
+          "name": "JIMMY",
+          "img": "https://i2.wp.com/thebrineshrimp.com/wp-content/uploads/2017/04/tmp_28480-drunk-kangaroo1132580580.jpg?resize=1200%2C675",
+          "id": 2
+        },
+        {
+          "name": "ROGER",
+          "img": "https://i.huffpost.com/gen/3033536/thumbs/o-ROGER-SWOLED-570.jpg?7",
+          "id": 3
+        },
+        {
+          "name": "JIMBO",
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbpXfYAf_0UudcMBZqEoAzU83LetKBMVANhEIbMGuX0fePmAs",
+          "id": 4
+        },
+        {
+          "name": "CHUCK",
+          "img": "https://news.nationalgeographic.com/content/dam/news/2015/06/18/kangaroolefty_42-35012391.jpg",
+          "id": 5
+        }
+      ]
+  }

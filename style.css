@@ -285,4 +285,14 @@ body {
     padding: 15px 40px 15px 40px;
     margin-top: 0;
 }
+.list {
+    margin-top: 20px;
+}
+.list img {
+    height: 150px;
+}
 
+.list > div {
+    display: flex;
+    align-items: center;
+}
